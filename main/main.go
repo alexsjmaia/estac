@@ -22,7 +22,7 @@ func main() {
 		// runCmd("cmd", "/c", "cls") // Isso é para Windows
 		runCmd("clear") // Isso é Para Linux
 
-		fmt.Println("\n\t\t\t\tSE - MEGA PARK\n")
+		fmt.Println("\n\t\t\t\tGOLANG ESTACIONAMENTO\n")
 		fmt.Print("\t1 - ENTRADA DE VEÍCULOS")
 		fmt.Println("\t\t2 - SAÍDA DE VEÍCULOS")
 		//fmt.Print("\t3 - REIMPRIME ÚLTIMA ENTRADA")
