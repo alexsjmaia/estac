@@ -2,10 +2,10 @@
 
 ===================================
 
- * * * ESTACIONAMENTO SE MEGA PARK * * *
+ * * * ESTACIONAMENTO GOLANG * * *
 
-CNPJ : 10.809.909/0001-61
-Rua Rio Bonito, 845 CEP : 03023-000
+CNPJ : 00.000.000/0000-00
+Rua Dos bobos, 0 CEP : 1234-5678
 
 COMPROVANTE DE ENTRADA DE VEICULO
 
@@ -16,12 +16,6 @@ DATA E HORA DE ENTRADA : 18/09/2022 12:30:07
 
 	PLACA : ABC3344
 	MODELO : DDD
-
-
-****** AVISO IMPORTANTE ******
-EM CASO DE CONVENIO, NAO ESQUECA
-DE VALIDAR ESTE TICKET NO CAIXA
-DA LOJA. ATT SE MEGA PARK
 
 ===================================
 ===================================
